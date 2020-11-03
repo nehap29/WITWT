@@ -1,0 +1,12 @@
+API key:
+JvaUYSYyckryhmmCNQLp4DuK6
+
+API secret key:
+3p07FNUAKUJMpg9ANpCgEBrVAqw8H4dcAVACjWO1FZEDBsNsg9
+
+Access Token:
+1276677741799186432-bxjvVd7dX4wk4P7cegysfHi1fYFbYu
+
+Access Token Secret:
+XAAKBrOQMw0CavFPTeWptsv8un1xrVNhVgDc1dBKCBqWB
+
